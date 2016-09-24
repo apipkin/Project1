@@ -1,0 +1,12 @@
+2014 Employee Smith,John 2000
+2014 Employee Smith,John 4000
+2014 Salesman Jones,Bill 3000 100000 
+2015 Salesman Jones,Bill 4000 200000 
+2014 Executive Lynn,Sarah 50000 55
+2012 Executive Lynn,Sarah 50000 74
+2014 Employee Joel,Billy 2500
+2015 Employee Joel,Billy 4300
+2014 Salesman Walker,Connie 6000 700000 
+2015 Salesman Walker,Connie 2000 200000 
+2014 Executive Lynn,Marsha 50000 55
+2015 Executive Lynn,Marsha 50000 74
